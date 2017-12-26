@@ -3,6 +3,7 @@ title: My First Blog
 author: Tim Estes
 email: timothestes@gmail.com
 description: A beginner's blog
+github_username:  timothyestes
 
 # Build settings
 markdown: kramdown
